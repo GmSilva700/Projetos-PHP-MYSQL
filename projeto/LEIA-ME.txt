@@ -1,5 +1,0 @@
-um simples sistema de biblioteca, com a possibilidade da conta do admin alterar foto de perfil. 
-o projeto ainda está em andamento pretendo deixar mais "vivo" visualmente falando com imagens abstratas e jquery, 
-além de organizar melhor o sistema com divisão dos livros por gêneros, classificação indicativa, reviews. 
-além de querys por editora, autor, mais alugados.
-Sinta-se livre para contribuir esse projeto seguiu até aqui aonde foi pedido pelo professor na atividade, agora pretendo realizar essas melhorias.
